@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Web Sitenizin Başlığı</title>
+</head>
+<body>
+
+    <header>
+        <h1>Hoş Geldiniz!</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Anasayfa</a></li>
+                <li><a href="#">Hakkımızda</a></li>
+                <li><a href="#">Hizmetlerimiz</a></li>
+                <li><a href="#">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Hakkımızda</h2>
+            <p>Web sitemizin hakkında kısa bir açıklama.</p>
+        </section>
+
+        <section>
+            <h2>Hizmetlerimiz</h2>
+            <ul>
+                <li>Web Tasarımı</li>
+                <li>Web Geliştirme</li>
+                <li>Dijital Pazarlama</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 WebSitem.com</p>
+    </footer>
+
+</body>
+</html>
